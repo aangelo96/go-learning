@@ -1,0 +1,9 @@
+#Start
+1. Install Go via https://go.dev/dl/
+
+#Learning
+2. Use Go tour for learning. Start by installing Go tour.
+   - Command: go install golang.org/x/website/tour@latest
+   - Source: https://go.dev/tour/welcome/3
+3. To open Go tour, find the location of tour.exe. Usually it's on cd ~/go/bin
+4. Run tour.exe
