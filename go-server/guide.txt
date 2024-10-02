@@ -1,0 +1,10 @@
+Basic Go Server
+
+#Step 1
+Write base code for main.go
+
+#Step 2
+Initiate, install required dependencies, and run the code.
+1. go mod init go-server  
+2. go get .
+3. go run .
